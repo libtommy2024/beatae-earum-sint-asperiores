@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/beatae-earum-sint-asperiores",
-  "version": "16.46.503",
+  "version": "16.46.504",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -530,5 +530,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/beatae-earum-sint-asperiores/issues"
   },
-  "packageManager": "yarn@4.10.3"
+  "packageManager": "yarn@4.11.0"
 }
